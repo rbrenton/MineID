@@ -17,4 +17,4 @@ django-sslify==0.2.3
 
 # Solves transparency issue
 # https://github.com/mariocesar/sorl-thumbnail/pull/274
-http://github.com/mariocesar/sorl-thumbnail/archive/master.zip#egg=sorl-thumbnail==11.12.1b
+https://github.com/mariocesar/sorl-thumbnail/archive/v11.12.1b.zip
